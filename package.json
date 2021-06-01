@@ -1,0 +1,36 @@
+{
+  "name": "vr-react-cli",
+  "version": "0.3.11",
+  "description": "Current: get a small project with tsx. upcoming update: create enterprise level starter application with react-redux, redux-thunk, axios, material-ui, react-routerreact-i18next",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev-start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VigneshRamamoorthy1992/client"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "shelljs": "^0.7.8"
+  },
+  "bin": {
+    "vr": "index.js"
+  },
+  "keywords": [
+    "react-starter",
+    "enterprise-starter",
+    "react-redux",
+    "react-tsx",
+    "react-hoc",
+    "react-material-ui",
+    "react-router",
+    "react-i18next",
+    "react-hoc-starter",
+    "react-boilerplate",
+    "react-hoc-boilerplate"
+  ],
+  "author": "vignesh ramamoorthy",
+  "license": "MIT"
+}
